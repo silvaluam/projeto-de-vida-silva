@@ -18,4 +18,4 @@ const contadores = document.querySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2025-12-19T00:00:00");
 let tempoAtual = new Date();
 
-contadores[0].textContent =tempoobjetivo1-tempoAtual;
+contadores[0].textContent = tempoObjetivo1 - tempoAtual;
